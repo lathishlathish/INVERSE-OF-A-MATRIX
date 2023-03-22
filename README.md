@@ -28,5 +28,5 @@ print(B)
 ![image](https://user-images.githubusercontent.com/120359170/226877855-84b8be67-b7f6-4e4c-9c7c-060272113d6f.png)
 
 ## Result:
-Thus the inverse of given matrix is successfully solved using python program
+Thus the inverse of given matrix is successfully solved using python program.
 
